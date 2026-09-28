@@ -51,3 +51,7 @@ How to get the token is explained step by step in [suno-tools/README.txt](suno-t
 - discord.js 14
 - ffmpeg
 - `@discordjs/voice` (for voice playback only)
+
+## License
+
+[MIT](LICENSE) — free to use, change and share, including in your own bots. The songs themselves belong to their creators on Suno.
